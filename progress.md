@@ -1,4 +1,5 @@
 # Topics of Study Progress
+- [x] Set up Task list
 
 ## Algorithmic Complexity
 - [ ] Big-O / Asymptotic Analysis
